@@ -2,11 +2,18 @@
 
 Hi Everyone!
 
-This is the 1st Landing-page that I made into a project called "6projects/6days". The object of this project is masterize HTML/CSS to start learning deeply JavaScript.
-This project is composed by 6 projects made by myself with inspiration of other pages that I saw at.
+This is the 1st website that I did within a project called "6projects / 6days". 
+The aim of this project is masterize HTML / CSS to start learning deeply JavaScript.
+This project is composed by 6 projects made by myself with inspiration of other pages that I saw on the net.
 
-The 1st one have been about a Resort in Maldives. Very simple and straightforward just to strat undertanding the concepts of the position in CSS.
-The 2nd one is about an Investment company. I added a couple of 'tricks' with JS very simple.
-The 3rd one is about a delivery business of sushi. Here I added everything on index. A couple of animations with CSS included.
-The 4th one is inspired in the surf brand known as 'Quiksilver'. I call it 'QuikGoldie' and I tried to make a 'clone' in a few thing of there.
-The 5th one is about...........................TO BE CONTINUED!!
+This is my first page that I could made by myself. When I had some trouble, I used Google and adapted it to my side.
+This page is about a Resort in Maldives. 
+I've been using "floats" to keep the things straightforward.
+It's composed with a simple horizontal navbar in the top. I've been using "hover" in every link / button.
+Four sections in the "index" page: Showcase, history, features section using icons from fontawesome and a simple footer.
+Two sections in "about" page: About and testimonials, using "border-radius" for images.
+Also, I made a form for the "contact" page and I added a few icons.
+The main issue that I found was in this last section. The form was so complicated but finally I could found out to center it and finished it up.
+
+See you in the next website of this project.
+
