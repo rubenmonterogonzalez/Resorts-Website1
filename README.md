@@ -15,5 +15,7 @@ Two sections in "about" page: About and testimonials, using "border-radius" for 
 Also, I made a form for the "contact" page and I added a few icons.
 The main issue that I found was in this last section. The form was so complicated but finally I could found out to center it and finished it up.
 
+![website1](https://user-images.githubusercontent.com/85435045/127738416-8ed673fb-0eff-4f56-a821-00500c89e60d.jpg)
+
 See you in the next website of this project.
 
